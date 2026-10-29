@@ -1,0 +1,19 @@
+{
+  "preset": "full",
+  "workloads": [
+    "matmul",
+    "axpy",
+    "mean"
+  ],
+  "backends": null,
+  "dtypes": [
+    "float32",
+    "float16"
+  ],
+  "repeats": 30,
+  "warmup": 3,
+  "max_seconds": 2.0,
+  "seed": 0,
+  "skip_transfer": false,
+  "skip_memory": false
+}
