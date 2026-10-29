@@ -1,7 +1,7 @@
 # gpubench — honest CPU vs GPU benchmarking
 
-[![tests](https://github.com/Ignacy_Malachowski/gpu-bench/actions/workflows/tests.yml/badge.svg)](https://github.com/Ignacy_Malachowski/gpu-bench/actions/workflows/tests.yml)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ignacy_Malachowski/gpu-bench/blob/main/notebooks/colab_gpu_benchmark.ipynb)
+[![tests](https://github.com/imalachowsk-creator/gpu-bench/actions/workflows/tests.yml/badge.svg)](https://github.com/imalachowsk-creator/gpu-bench/actions/workflows/tests.yml)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imalachowsk-creator/gpu-bench/blob/main/notebooks/colab_gpu_benchmark.ipynb)
 
 "The GPU is 50× faster" is easy to claim and easy to get wrong. A forgotten
 `torch.cuda.synchronize()`, a cached result or a silent drop to half precision
